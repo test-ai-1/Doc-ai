@@ -1,5 +1,5 @@
 # LexPlain AI - Your Legal Guardian Angel
-
+#**running on: https://doc-ai-jjt4.onrender.com**
 A compassionate legal document explainer that empowers non-lawyers with AI-powered insights. Built with clean, modular architecture for hackathon success.
 
 ## 🚀 Quick Start
@@ -116,3 +116,4 @@ lexplain-ai/
 ---
 
 Built with ❤️ for hackathon judges who believe in empowering people through technology.
+
